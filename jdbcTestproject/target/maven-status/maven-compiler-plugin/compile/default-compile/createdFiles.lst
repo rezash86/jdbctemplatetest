@@ -1,0 +1,10 @@
+johnabbott\test\DAO\DepartmentDaoImpl.class
+johnabbott\test\model\Department.class
+johnabbott\test\model\DepartmentMapper.class
+johnabbott\test\configuration\WebAppInitializer.class
+johnabbott\test\configuration\WebMvcConfig.class
+johnabbott\test\DAO\DepartmentDao.class
+johnabbott\test\service\DepartmentServiceImpl.class
+johnabbott\test\configuration\DatabaseConfiguration.class
+johnabbott\test\controller\TestController.class
+johnabbott\test\service\DepartmentService.class
