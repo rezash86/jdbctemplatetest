@@ -1,0 +1,4 @@
+using jdbctemplate
+-Service layer
+-DAO layer for talking to db
+-database.properties for accessing to db
